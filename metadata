@@ -1,0 +1,26 @@
+{
+    "name": "Whitelist token",
+    "symbol": "WL",
+    "description": "You are allowed to mint with this ticket",
+    "image": "https://raw.githubusercontent.com/shucks18/assets/main/kult.png",
+    "attributes": [
+        {
+            "trait_type": "drip",
+            "value": "kult"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "8q5y23UseoFC7KTXLTcPT8dBvQ9qCCzmMn2qhTro3Pug",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/shucks18/assets/main/kult.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
